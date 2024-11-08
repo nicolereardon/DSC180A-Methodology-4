@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Nicole Reardon
-nreardon@ucsd.edu
+Nicole Reardon and Akash Juwadi
